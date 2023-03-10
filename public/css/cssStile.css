@@ -1,0 +1,69 @@
+.bodycss{
+    ext-align: center;
+  background-image: url("/img/newBody.jpg") ;
+  background-size: cover;
+  background-position: center;
+  padding: 2rem;
+  height: 100vh;
+  background-attachment: fixed;
+}
+.nav-butt{
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: #4CAF50;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+.input_registr{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .button_pand {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  .button_pand:hover {
+    background-color: #3e8e41;
+  }
+
+  .button_pandTwo{background-color: green ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+  }
+  .button_pandOne{
+    background-color: grey;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2)
+
+  }
